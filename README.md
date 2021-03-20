@@ -17,3 +17,6 @@ http://www.omdbapi.com/apikey.aspx
 - Axios (for API handling)
 - EJS (for embedded JavaScript)
 - Bootstrap (for front-end designing)
+
+## Preview
+![alt text](https://i.gyazo.com/f6d720da04f23987ea41b404b4be5c89.jpg)
