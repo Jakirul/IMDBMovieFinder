@@ -12,6 +12,15 @@ npm install
 Since it uses the OMDB API, request an API key from the link and add it to a .env file:
 http://www.omdbapi.com/apikey.aspx
 
+## How to run:
+```bash
+nodemon app.js
+```
+or
+```bash
+node app.js
+```
+
 ## What was used:
 - Node/Express
 - Axios (for API handling)
